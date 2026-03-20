@@ -2,7 +2,7 @@
 
 A breakout game build in webgl, and plain html, css and js.
 
-Just run BreakoutGame.html
+Demo here: https://anbu-breakout.pages.dev/
 
 <img width="1227" height="753" alt="image" src="https://github.com/user-attachments/assets/6b581ebf-bd46-469f-966d-aa0732d62108" />
 
